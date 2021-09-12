@@ -5,10 +5,10 @@ This is my personal **[logiops](https://github.com/PixlOne/logiops)** config fil
 
 Button | Press | Gesture Up | Gesture Down | Gesture Left | Gesture Right
 -|-|-|-|-|-
-Back | Play/Pause | Scroll Up | Scroll Down | Next Song/Video | Previus Song/Video
-Forward | Close tab (Chrome) | desktop 1 \* | desktop 2 \* | Next tab (Chrome) | Previus tab (Chrome)
-Scroll slide left | Back | - | - | Brightness + | Brightness -
-Scroll slide right | Forward | - | - | Volume + | Volume -
+Back | Play/Pause | Scroll Up | Scroll Down | Previus Song/Video | Next Song/Video
+Forward | Close tab (Chrome) | Desktop 1 \* | Desktop 2 \* | Previus tab (Chrome) | Next tab (Chrome)
+Scroll slide left | Back | - | - | Brightness - |  Brightness +
+Scroll slide right | Forward | - | - | Volume - | Volume +
 
 
 To consider:
